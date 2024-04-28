@@ -8,4 +8,4 @@ jobs:
   build:
     uses: ./.github/workflows/main.yml
     with:
-      keyboard: '["planck/rev6"]'
+      keyboard: '["planck/rev6_drop"]'
