@@ -8,6 +8,8 @@
 
 #if !defined (MIRYOKU_LAYER_LIST)
 
+
+
 #define MIRYOKU_LAYER_LIST \
 MIRYOKU_X(BASE,   "Base") \
 MIRYOKU_X(EXTRA,  "Extra") \
